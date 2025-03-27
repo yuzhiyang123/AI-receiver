@@ -3,4 +3,6 @@ code of paper A Hybrid Inference Architecture Incorporating Neural Network with 
 
 Two folders correspond to the single-user and multi-user scenarios, respectively. Most of the codes are the same, and they share the pretraining procedure.
 
-Please refer to the README file in single-user 
+Please read the README file in single_user folder before execution
+
+For any further questions/problems, please send email to yuzhi.yang@ku.ac.ae
